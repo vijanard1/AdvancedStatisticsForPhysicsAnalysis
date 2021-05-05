@@ -6,5 +6,5 @@ Year of course : 2020-2021
 Professor :  Alberto Garfagnini
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vijanard1/AdvancedStatisticsForPhysicsAnalysis)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vijanard1/AdvancedStatisticsForPhysicsAnalysis/main))
 
